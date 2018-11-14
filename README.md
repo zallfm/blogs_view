@@ -25,6 +25,4 @@ This application was generated with the Ruby On Rails and PostgresSQL
 
 # Author
 Rizal Fahmi | rhizall.00@gmail.com
-=======
-# blogs_view
->>>>>>> 2435ff5693f65d60086c3b3069ef0a334f337dc3
+
