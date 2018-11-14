@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Blogs_view
  [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]() 
 Languages : Ruby, Framework : Rails
