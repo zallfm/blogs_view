@@ -1,5 +1,7 @@
+# frozen_string_literal: true
+
+# used to limit the minimum of words
 class Article < ApplicationRecord
-    #used to limit the minimum of words
   has_many :comments, dependent: :destroy
   validates :title, presence: true,
                     length: { minimum: 5 }
